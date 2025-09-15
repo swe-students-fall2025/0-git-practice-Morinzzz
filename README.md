@@ -17,3 +17,5 @@ What makes LoCoBench differe to other coding benchmark tests is that its one of 
 ## Comment by Jasmine Zhu
 I really appreciate how it moves beyond evaluating LLMs on isolated code snippets and instead focuses on their performance across entire codebases. The emphasis on cross-file reasoning and architectural consistency is crucial, as this mirrors the actual challenges developers face when working with large, complex projects. It's exciting to see research that bridges the gap between AI capabilities and real world software engineering workflows. Thanks for sharing this!
 
+## Comment by May Zhou
+If LoCoBench can indeed handle long-context task, it should be able to farther simplify the work for programmers in the software eningeering industry. However, would it also slow output dur to error correction like current AI does? Error correction for long-context task could be much more complicated compared to current short-context tasks.
