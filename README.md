@@ -10,9 +10,8 @@ Unlike traditional benchmarks that only test small code snippets, LoCoBench eval
 
 What stands out to me is how it pushes LLMs beyond toy problems into real-world software development challenges, which feels very relevant to how developers actually work.
 
-##conor_changes
+## Conor_changes
 What makes LoCoBench differe to other coding benchmark tests is that its one of the first frameworks built to push models into working on full scale software engineering projects. It is especially powerful is the 100x variation in context lengths (10K → 1M tokens). This means researchers can really study where performance starts breaking down as models deal with increasingly large codebases — something current benchmarks don’t capture. (Conor Tiernan)
-=======
 
 
 ## Comment by Jasmine Zhu
